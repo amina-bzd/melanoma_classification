@@ -1,2 +1,3 @@
-# melanoma_classification
-Skin lesions classification using machine learning techniques.  Challenge 1, Classified nevus images vs. other types using an approximately balanced dataset. Challenge 2, three class classification  on Melanoma, Basal, and Squamous Cell Cancers using unbalanced datasets with a 50:40:10 proportion, and tested the performance on respective test sets.
+# Skin lesions classification using machine learning techniques. 
+
+In this project we were asked to classify images from a skin lesion dataset with the constraint of using only ML techniques. On the one hand, we had to classify nevus images vs. other type of images: to do that we had an approximately balanced train set of about 15000 images and a validation set of about 4000 images. On the other hand, we were asked to classify images on Melanoma, Basal and Squamous Cell Cancers. However, in this case the datasets are unbalanced, for a training set of circa 5000 images and a validation set of approx 1000 images on a proportion of 50:40:10. We were provided with respective test sets to see the performance of our implementation.
